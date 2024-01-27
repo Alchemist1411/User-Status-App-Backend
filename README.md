@@ -1,5 +1,5 @@
-# TIF-Assesment-Backend
-The Internet Folks Asssment (SDE Intern - NodeJs)
+# TIF-Assessment-Backend
+The Internet Folks Assessment (SDE Intern - NodeJs)
 
 ## Tech Stack
 
@@ -32,3 +32,4 @@ The Internet Folks Asssment (SDE Intern - NodeJs)
 
 
 ## Deployed link 🚀: https://tif-saas.onrender.com
+- Run each GET,POST,DELETE correctly for the correct output
