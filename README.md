@@ -1,6 +1,3 @@
-# TIF-Assessment-Backend
-The Internet Folks Assessment (SDE Intern - NodeJs)
-
 ## Tech Stack
 
 - Node.js
